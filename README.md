@@ -1,3 +1,5 @@
 Heap based memory allocator based on Doug-Lee's Malloc implementation.
 
-Reproduction of this code can result in academic plagiarism
+Run the makefile using make command
+
+Once compiled, try calling my_malloc(), my_free() and my_realloc() functions
